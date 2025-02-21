@@ -13,4 +13,6 @@ void sum(){
 	cout<<"Enter no B:-";
 	cin>>b;
 	cout<<"sum :- " <<a+b<<endl;
+	
+	//mahadev
 }
